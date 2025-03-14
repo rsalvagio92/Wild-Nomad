@@ -1,1 +1,1 @@
-"This is the content of ricky9.py
+print(
